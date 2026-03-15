@@ -1,0 +1,4 @@
+/Users/paul/Desktop/SWE Prep/mini_firebase/build/CMakeFiles/server.dir
+/Users/paul/Desktop/SWE Prep/mini_firebase/build/CMakeFiles/client.dir
+/Users/paul/Desktop/SWE Prep/mini_firebase/build/CMakeFiles/edit_cache.dir
+/Users/paul/Desktop/SWE Prep/mini_firebase/build/CMakeFiles/rebuild_cache.dir

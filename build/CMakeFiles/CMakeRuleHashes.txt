@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+eb45afeff96a9b50259af4d73a2e3374 myservice.pb.cc
